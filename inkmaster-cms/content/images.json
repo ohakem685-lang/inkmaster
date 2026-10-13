@@ -1,0 +1,64 @@
+{
+ "images": [
+  {
+   "id": "logo_t",
+   "label": "الرئيسية — Ink Master - خبراء صناعة الأحبار",
+   "src": "img/logo_t.png"
+  },
+  {
+   "id": "logo",
+   "label": "الرئيسية — Ink Master",
+   "src": "img/logo.png"
+  },
+  {
+   "id": "bags",
+   "label": "الرئيسية — الأحبار المذيبة",
+   "src": "img/bags.jpg"
+  },
+  {
+   "id": "bag2",
+   "label": "الرئيسية — أحبار مائية للطباعة على البلاستيك",
+   "src": "img/bag2.jpg"
+  },
+  {
+   "id": "p3b",
+   "label": "الرئيسية — الأحبار المائية",
+   "src": "img/p3b.jpg"
+  },
+  {
+   "id": "bag",
+   "label": "المنتجات — طباعة على كيس بلاستيك",
+   "src": "img/bag.jpg"
+  },
+  {
+   "id": "roll",
+   "label": "المنتجات — رول فيلم بلاستيكي مطبوع",
+   "src": "img/roll.jpg"
+  },
+  {
+   "id": "bowls",
+   "label": "المنتجات — عبوات طعام ورقية مطبوعة",
+   "src": "img/bowls.jpg"
+  },
+  {
+   "id": "bucket",
+   "label": "المنتجات — عبوة أحبار Ink Master",
+   "src": "img/bucket.jpg"
+  },
+  {
+   "id": "varnish-acrylic",
+   "label": "المنتجات — ورنيش أكريليك - أنواعه ومواصفاته الفنية",
+   "src": "img/varnish-acrylic.jpg"
+  },
+  {
+   "id": "pigments",
+   "label": "المنتجات — مركزات ألوان الأحبار - الدرجات والمواصفات الفنية",
+   "src": "img/pigments.jpg"
+  },
+  {
+   "id": "water-print",
+   "label": "التطبيقات — أحبار مائية بلاستيكية",
+   "src": "img/water-print.jpg"
+  }
+ ]
+}
