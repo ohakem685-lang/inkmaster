@@ -1,5 +1,5 @@
 /* وضع الصيانة: ON=true يعرض صفحة "قيد الصيانة" للزوار، و ON=false يرجّع الموقع */
-(function(){
+(function(){ 
   var ON=true;
   try{
     if(/[?&]preview/.test(location.search))sessionStorage.setItem('mpv','1');
