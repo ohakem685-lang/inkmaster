@@ -529,3 +529,12 @@ a:focus-visible,button:focus-visible{outline:3px solid var(--blue);outline-offse
 .mail-menu a.primary small{color:var(--black)}
 .mail-menu a.primary:hover{background:var(--yellow)}
 html[dir=rtl] .mail-menu a strong{text-align:right}html[dir=ltr] .mail-menu a strong{text-align:left}
+
+/* v3 tweaks */
+.f-grid .phones{flex-wrap:nowrap;gap:4px 12px;font-size:14.5px;white-space:nowrap}
+@media(min-width:900px){.f-grid{grid-template-columns:1.1fr .8fr 1.5fr}}
+@media(max-width:420px){.f-grid .phones{flex-wrap:wrap}}
+.team{grid-template-columns:repeat(auto-fit,minmax(300px,1fr));max-width:none}
+.person:nth-child(1) .avatar{background:#E6049A;border-color:#E6049A;color:#fff}
+.person:nth-child(2) .avatar{background:var(--yellow);border-color:var(--yellow);color:var(--black)}
+.person:nth-child(3) .avatar{background:var(--blue);border-color:var(--blue);color:#fff}
