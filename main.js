@@ -47,16 +47,7 @@
     if(save){try{localStorage.setItem('lang',l)}catch(e){}}
   }
   var saved='ar';try{saved=localStorage.getItem('lang')||'ar'}catch(e){}
-  function get(u){return fetch(u,{cache:'no-cache'}).then(function(r){return r.ok?r.json():null}).catch(function(){return null})}
-  function apply(t,im){
-    window.I18N=window.I18N||{};
-    if(t&&t.texts){var m={};t.texts.forEach(function(x){m[x.id]=x;if(x.en!==undefined)window.I18N[x.id]=x.en});
-      nodes.forEach(function(e){var x=m[e.getAttribute('data-i18n')];if(x&&x.ar!==undefined)e.__ar=x.ar})}
-    if(im&&im.images){var p={};im.images.forEach(function(x){if(x.src)p[x.id]=x.src});
-      [].forEach.call(document.querySelectorAll('img[data-img]'),function(i){var s=p[i.getAttribute('data-img')];if(s)i.setAttribute('src',s)})}
-  }
-  function go(){setLang(saved==='en'?'en':'ar',false);D.classList.remove('cms-wait')}
-  if(window.fetch&&window.Promise){Promise.all([get('content/texts.json'),get('content/images.json')]).then(function(r){apply(r[0],r[1]);go()})}else go();
+  setLang(saved==='en'?'en':'ar',false);
   if(lb)lb.addEventListener('click',function(){setLang(D.lang==='en'?'ar':'en',true)});
 
   var f=document.getElementById('waform');
