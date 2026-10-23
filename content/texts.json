@@ -1,970 +1,970 @@
 {
- "texts": [
-  {
-   "id": "0",
-   "page": "الرئيسية",
-   "ar": "الرئيسية",
-   "en": "Home"
-  },
-  {
-   "id": "1",
-   "page": "الرئيسية",
-   "ar": "من نحن",
-   "en": "About Us"
-  },
-  {
-   "id": "2",
-   "page": "الرئيسية",
-   "ar": "المنتجات",
-   "en": "Products"
-  },
-  {
-   "id": "3",
-   "page": "الرئيسية",
-   "ar": "التطبيقات",
-   "en": "Applications"
-  },
-  {
-   "id": "4",
-   "page": "الرئيسية",
-   "ar": "اتصل بنا",
-   "en": "Contact Us"
-  },
-  {
-   "id": "5",
-   "page": "الرئيسية",
-   "ar": "Home · الرئيسية",
-   "en": "Home"
-  },
-  {
-   "id": "6",
-   "page": "الرئيسية",
-   "ar": "خبراء صناعة الأحبار",
-   "en": "Ink Manufacturing Experts"
-  },
-  {
-   "id": "7",
-   "page": "الرئيسية",
-   "ar": "شركة مصرية متخصصة في تصنيع أحبار الطباعة عالية الأداء والورنيشات ومركزات الألوان والمواد اللاصقة الصناعية لقطاعات التعبئة والتغليف والصناعات المختلفة.",
-   "en": "An Egyptian company specializing in manufacturing high-performance printing inks, varnishes, color concentrates and industrial adhesives for the packaging and other industries."
-  },
-  {
-   "id": "8",
-   "page": "الرئيسية",
-   "ar": "أهم المنتجات",
-   "en": "Top Products"
-  },
-  {
-   "id": "9",
-   "page": "الرئيسية",
-   "ar": "الجودة والخبرة",
-   "en": "Quality & Experience"
-  },
-  {
-   "id": "10",
-   "page": "الرئيسية",
-   "ar": "تعريف سريع",
-   "en": "Quick Overview"
-  },
-  {
-   "id": "11",
-   "page": "الرئيسية",
-   "ar": "حلول طباعة متكاملة تجمع بين الجودة العالية وأفضل معادلة تكلفة مقابل أداء.",
-   "en": "Complete printing solutions that combine high quality with the best cost-to-performance ratio."
-  },
-  {
-   "id": "12",
-   "page": "الرئيسية",
-   "ar": "من خلال خبرة فنية قوية واستراتيجية تطوير مستمرة، نقدم في Ink Master حلول طباعة متكاملة تهدف إلى تحسين جودة الطباعة وزيادة كفاءة الإنتاج، مع إجراءات رقابة جودة صارمة تضمن ثبات الجودة والاعتمادية.",
-   "en": "With strong technical expertise and a strategy of continuous development, Ink Master delivers complete printing solutions that improve print quality and raise production efficiency, backed by strict quality-control procedures that ensure consistency and reliability."
-  },
-  {
-   "id": "13",
-   "page": "الرئيسية",
-   "ar": "ننتج أحباراً مذيبة ومائية وورنيشات ومركزات ألوان تخدم الشكائر المنسوجة والأكياس البلاستيكية والكرتون وعبوات الأغذية والتغليف المرن.",
-   "en": "We produce solvent-based and water-based inks, varnishes and color concentrates for woven sacks, plastic bags, cartons, food packaging and flexible packaging."
-  },
-  {
-   "id": "14",
-   "page": "الرئيسية",
-   "ar": "اقرأ قصتنا",
-   "en": "Read Our Story"
-  },
-  {
-   "id": "15",
-   "page": "الرئيسية",
-   "ar": "تشكيلة من الأحبار المصممة لكل سطح وكل خط إنتاج.",
-   "en": "A range of inks designed for every surface and every production line."
-  },
-  {
-   "id": "16",
-   "page": "الرئيسية",
-   "ar": "الأحبار المذيبة",
-   "en": "Solvent-Based Inks"
-  },
-  {
-   "id": "17",
-   "page": "الرئيسية",
-   "ar": "التصاق عالي وجفاف سريع للشكائر المنسوجة وأكياس البلاستيك ورولات التغليف.",
-   "en": "High adhesion and fast drying for woven sacks, plastic bags and packaging rolls."
-  },
-  {
-   "id": "18",
-   "page": "الرئيسية",
-   "ar": "التفاصيل",
-   "en": "Details"
-  },
-  {
-   "id": "19",
-   "page": "الرئيسية",
-   "ar": "أحبار مائية للطباعة على البلاستيك",
-   "en": "Water-Based Inks for Plastic"
-  },
-  {
-   "id": "20",
-   "page": "الرئيسية",
-   "ar": "مقاومة للخدش والرطوبة وملائمة للطباعة عالية السرعة على الأفلام البلاستيكية.",
-   "en": "Resistant to scratching and moisture, and suited to high-speed printing on plastic films."
-  },
-  {
-   "id": "21",
-   "page": "الرئيسية",
-   "ar": "الأحبار المائية",
-   "en": "Water-Based Inks"
-  },
-  {
-   "id": "22",
-   "page": "الرئيسية",
-   "ar": "آمنة وصديقة للبيئة للكرتون وعبوات الأغذية وورق الكرافت وشكاير الأسمنت.",
-   "en": "Safe and eco-friendly for cartons, food packaging, kraft paper and cement bags."
-  },
-  {
-   "id": "23",
-   "page": "الرئيسية",
-   "ar": "كل المنتجات",
-   "en": "All Products"
-  },
-  {
-   "id": "24",
-   "page": "الرئيسية",
-   "ar": "نظام إنتاج قائم على الرقابة الصارمة والتطوير المستمر لنضمن لك منتجاً يمكنك الاعتماد عليه.",
-   "en": "A production system built on strict control and continuous development, so you get a product you can rely on."
-  },
-  {
-   "id": "25",
-   "page": "الرئيسية",
-   "ar": "رقابة جودة صارمة",
-   "en": "Strict Quality Control"
-  },
-  {
-   "id": "26",
-   "page": "الرئيسية",
-   "ar": "إجراءات فحص في كل مرحلة إنتاج لضمان ثبات الجودة من تشغيلة لأخرى.",
-   "en": "Inspection at every production stage to keep quality consistent from batch to batch."
-  },
-  {
-   "id": "27",
-   "page": "الرئيسية",
-   "ar": "خبرة فنية قوية",
-   "en": "Strong Technical Expertise"
-  },
-  {
-   "id": "28",
-   "page": "الرئيسية",
-   "ar": "فريق كيميائي متخصص في تطوير التركيبات وحل مشكلات الطباعة.",
-   "en": "A specialized team of chemists developing formulations and solving printing problems."
-  },
-  {
-   "id": "29",
-   "page": "الرئيسية",
-   "ar": "كفاءة وتكلفة مثالية",
-   "en": "Efficiency & Optimal Cost"
-  },
-  {
-   "id": "30",
-   "page": "الرئيسية",
-   "ar": "أداء أفضل على خط الإنتاج وأفضل معادلة تكلفة مقابل أداء.",
-   "en": "Better performance on the production line and the best cost-to-performance ratio."
-  },
-  {
-   "id": "31",
-   "page": "الرئيسية",
-   "ar": "أسواق محلية وتصديرية",
-   "en": "Local & Export Markets"
-  },
-  {
-   "id": "32",
-   "page": "الرئيسية",
-   "ar": "توافق مع متطلبات الأسواق المحلية والتصديرية.",
-   "en": "Compliant with the requirements of local and export markets."
-  },
-  {
-   "id": "33",
-   "page": "الرئيسية",
-   "ar": "لكل خامة حبر يناسبها، وفريقنا الفني يساعدك في تحديد الخيار الأفضل لاحتياجاتك.",
-   "en": "Every material has the right ink — our technical team helps you choose the best option for your needs."
-  },
-  {
-   "id": "34",
-   "page": "الرئيسية",
-   "ar": "تواصل معنا",
-   "en": "Contact Us"
-  },
-  {
-   "id": "35",
-   "page": "الرئيسية",
-   "ar": "روابط سريعة",
-   "en": "Quick Links"
-  },
-  {
-   "id": "36",
-   "page": "الرئيسية",
-   "ar": "الرئيسية ·",
-   "en": ""
-  },
-  {
-   "id": "37",
-   "page": "الرئيسية",
-   "ar": "من نحن ·",
-   "en": ""
-  },
-  {
-   "id": "38",
-   "page": "الرئيسية",
-   "ar": "المنتجات ·",
-   "en": ""
-  },
-  {
-   "id": "39",
-   "page": "الرئيسية",
-   "ar": "التطبيقات ·",
-   "en": ""
-  },
-  {
-   "id": "40",
-   "page": "الرئيسية",
-   "ar": "اتصل بنا ·",
-   "en": ""
-  },
-  {
-   "id": "41",
-   "page": "الرئيسية",
-   "ar": "مصر - الروبيكي - مدينة العاشر من رمضان",
-   "en": "Egypt - Al-Robeiki - 10th of Ramadan City"
-  },
-  {
-   "id": "42",
-   "page": "الرئيسية",
-   "ar": "© 2026 Ink Master. جميع الحقوق محفوظة.",
-   "en": "© 2026 Ink Master. All rights reserved."
-  },
-  {
-   "id": "43",
-   "page": "من نحن",
-   "ar": "تعرف على قصة الشركة وخبرتها ورؤيتها والفريق الذي يقف وراء جودة منتجاتنا.",
-   "en": "Learn about the company's story, expertise, vision and the team behind the quality of our products."
-  },
-  {
-   "id": "44",
-   "page": "من نحن",
-   "ar": "قصة الشركة",
-   "en": "Company Story"
-  },
-  {
-   "id": "45",
-   "page": "من نحن",
-   "ar": "Ink Master شركة مصرية متخصصة في تصنيع أحبار الطباعة عالية الأداء والورنيشات ومركزات الألوان والمواد اللاصقة الصناعية لقطاعات التعبئة والتغليف والصناعات المختلفة.",
-   "en": "Ink Master is an Egyptian company specializing in manufacturing high-performance printing inks, varnishes, color concentrates and industrial adhesives for the packaging and other industries."
-  },
-  {
-   "id": "46",
-   "page": "من نحن",
-   "ar": "من خلال خبرة فنية قوية واستراتيجية تطوير مستمرة، نقدم حلول طباعة متكاملة تهدف إلى تحسين جودة الطباعة وزيادة كفاءة الإنتاج وتحقيق أفضل معادلة تكلفة مقابل أداء.",
-   "en": "With strong technical expertise and a strategy of continuous development, we deliver complete printing solutions that improve print quality, increase production efficiency and achieve the best cost-to-performance ratio."
-  },
-  {
-   "id": "47",
-   "page": "من نحن",
-   "ar": "يعتمد نظام الإنتاج لدينا على إجراءات رقابة جودة صارمة لضمان ثبات الجودة والاعتمادية والتوافق مع متطلبات الأسواق المحلية والتصديرية.",
-   "en": "Our production system relies on strict quality-control procedures to ensure consistent quality, reliability and compliance with the requirements of local and export markets."
-  },
-  {
-   "id": "48",
-   "page": "من نحن",
-   "ar": "الخبرة والرؤية",
-   "en": "Expertise & Vision"
-  },
-  {
-   "id": "49",
-   "page": "من نحن",
-   "ar": "الخبرة",
-   "en": "Expertise"
-  },
-  {
-   "id": "50",
-   "page": "من نحن",
-   "ar": "خبرة فنية متراكمة في كيمياء الأحبار والورنيشات تمكننا من تطوير تركيبات تناسب مختلف الأسطح وخطوط الطباعة.",
-   "en": "Accumulated technical expertise in ink and varnish chemistry lets us develop formulations that suit a wide range of surfaces and printing lines."
-  },
-  {
-   "id": "51",
-   "page": "من نحن",
-   "ar": "تطوير مستمر للتركيبات حسب احتياج العميل",
-   "en": "Continuous development of formulations according to customer needs"
-  },
-  {
-   "id": "52",
-   "page": "من نحن",
-   "ar": "دعم فني لحل مشكلات الطباعة والتشغيل",
-   "en": "Technical support to solve printing and operating problems"
-  },
-  {
-   "id": "53",
-   "page": "من نحن",
-   "ar": "تغطية قطاعات التعبئة والتغليف والصناعات المختلفة",
-   "en": "Coverage of packaging and other industrial sectors"
-  },
-  {
-   "id": "54",
-   "page": "من نحن",
-   "ar": "الرؤية",
-   "en": "Vision"
-  },
-  {
-   "id": "55",
-   "page": "من نحن",
-   "ar": "أن نكون الاسم الأول الموثوق في صناعة الأحبار في مصر والمنطقة، بمنتجات تجمع الجودة والاعتمادية وأفضل قيمة مقابل التكلفة.",
-   "en": "To be the first trusted name in the ink industry in Egypt and the region, with products that combine quality, reliability and the best value for cost."
-  },
-  {
-   "id": "56",
-   "page": "من نحن",
-   "ar": "جودة ثابتة تُبنى عليها الثقة",
-   "en": "Consistent quality that trust is built on"
-  },
-  {
-   "id": "57",
-   "page": "من نحن",
-   "ar": "حلول تدعم التوجهات الأكثر استدامة",
-   "en": "Solutions that support more sustainable trends"
-  },
-  {
-   "id": "58",
-   "page": "من نحن",
-   "ar": "شراكة طويلة المدى مع عملائنا",
-   "en": "Long-term partnership with our customers"
-  },
-  {
-   "id": "59",
-   "page": "من نحن",
-   "ar": "الإدارة والفنيين",
-   "en": "Management & Technicians"
-  },
-  {
-   "id": "60",
-   "page": "المنتجات",
-   "ar": "الأحبار والورنيش ومركزات الألوان، مع أنواع كل منتج واستخداماته.",
-   "en": "Inks, varnish and color concentrates, with the types and uses of each product."
-  },
-  {
-   "id": "61",
-   "page": "المنتجات",
-   "ar": "أحبار مائية للبلاستيك",
-   "en": "Water-Based Inks for Plastic"
-  },
-  {
-   "id": "62",
-   "page": "المنتجات",
-   "ar": "ورنيش أكريليك",
-   "en": "Acrylic Varnish"
-  },
-  {
-   "id": "63",
-   "page": "المنتجات",
-   "ar": "مركزات الألوان",
-   "en": "Color Concentrates"
-  },
-  {
-   "id": "64",
-   "page": "المنتجات",
-   "ar": "هي أحبار ذات أساس مذيب مصممة خصيصاً للطباعة على الأسطح غير المسامية، تتميز بقوة التصاق عالية وسرعة جفاف فائقة وثبات ممتاز. تستخدم على نطاق واسع في طباعة الشكائر المنسوجة وأكياس البلاستيك ورولات التغليف.",
-   "en": "Solvent-based inks designed specifically for printing on non-porous surfaces, offering strong adhesion, very fast drying and excellent stability. Widely used for printing woven sacks, plastic bags and packaging rolls."
-  },
-  {
-   "id": "65",
-   "page": "المنتجات",
-   "ar": "المميزات",
-   "en": "Features"
-  },
-  {
-   "id": "66",
-   "page": "المنتجات",
-   "ar": "قوة التصاق عالية على البلاستيك",
-   "en": "Strong adhesion to plastic"
-  },
-  {
-   "id": "67",
-   "page": "المنتجات",
-   "ar": "مقاومة ممتازة للاحتكاك والخدش",
-   "en": "Excellent resistance to rubbing and scratching"
-  },
-  {
-   "id": "68",
-   "page": "المنتجات",
-   "ar": "سرعة جفاف عالية",
-   "en": "Fast drying"
-  },
-  {
-   "id": "69",
-   "page": "المنتجات",
-   "ar": "ثبات عالي أثناء التشغيل",
-   "en": "High stability during operation"
-  },
-  {
-   "id": "70",
-   "page": "المنتجات",
-   "ar": "قوة لونية وتغطية ممتازة",
-   "en": "Excellent color strength and coverage"
-  },
-  {
-   "id": "71",
-   "page": "المنتجات",
-   "ar": "الاستخدامات",
-   "en": "Uses"
-  },
-  {
-   "id": "72",
-   "page": "المنتجات",
-   "ar": "الشكائر المنسوجة (PP Woven)",
-   "en": "Woven sacks (PP Woven)"
-  },
-  {
-   "id": "73",
-   "page": "المنتجات",
-   "ar": "أكياس البلاستيك (PE / HDPE)",
-   "en": "Plastic bags (PE / HDPE)"
-  },
-  {
-   "id": "74",
-   "page": "المنتجات",
-   "ar": "رولات التغليف والـ Lamination",
-   "en": "Packaging rolls and lamination"
-  },
-  {
-   "id": "75",
-   "page": "المنتجات",
-   "ar": "شكائر السكر والدقيق والأعلاف",
-   "en": "Sugar, flour and feed sacks"
-  },
-  {
-   "id": "76",
-   "page": "المنتجات",
-   "ar": "سلسلة متطورة من الأحبار المائية المصممة للطباعة على مجموعة متنوعة من الأفلام والأسطح البلاستيكية، مع التركيز على تحقيق قوة التصاق جيدة، وجودة طباعة مستقرة، ومقاومة عالية للخدش والرطوبة.",
-   "en": "An advanced series of water-based inks designed for printing on a variety of plastic films and surfaces, focused on good adhesion, stable print quality and high resistance to scratching and moisture."
-  },
-  {
-   "id": "77",
-   "page": "المنتجات",
-   "ar": "تتميز هذه الأحبار بإمكانية استخدامها في تطبيقات الطباعة عالية السرعة، مع توفر درجات مختلفة من اللمعان بما يتناسب مع متطلبات التعبئة والتغليف.",
-   "en": "These inks can be used in high-speed printing applications, with a choice of gloss levels to suit packaging requirements."
-  },
-  {
-   "id": "78",
-   "page": "المنتجات",
-   "ar": "يعتمد الأداء النهائي على نوع البلاستيك ومعالجة السطح وظروف الطباعة والتجفيف، ويُنصح باستخدام معالجة Corona مناسبة وأنظمة تجفيف فعالة، خاصة عند الطباعة على الأفلام منخفضة الطاقة السطحية.",
-   "en": "Final performance depends on the plastic type, surface treatment and printing and drying conditions. Suitable corona treatment and effective drying systems are recommended, especially when printing on low-surface-energy films."
-  },
-  {
-   "id": "79",
-   "page": "المنتجات",
-   "ar": "قوة التصاق جيدة على الأسطح البلاستيكية المعالجة",
-   "en": "Good adhesion on treated plastic surfaces"
-  },
-  {
-   "id": "80",
-   "page": "المنتجات",
-   "ar": "مقاومة عالية للخدش والرطوبة",
-   "en": "High resistance to scratching and moisture"
-  },
-  {
-   "id": "81",
-   "page": "المنتجات",
-   "ar": "مقاومة جيدة للحرارة",
-   "en": "Good heat resistance"
-  },
-  {
-   "id": "82",
-   "page": "المنتجات",
-   "ar": "مناسبة للطباعة عالية السرعة",
-   "en": "Suitable for high-speed printing"
-  },
-  {
-   "id": "83",
-   "page": "المنتجات",
-   "ar": "درجات لمعان متعددة",
-   "en": "Multiple gloss levels"
-  },
-  {
-   "id": "84",
-   "page": "المنتجات",
-   "ar": "مناسبة لتطبيقات التغليف والطباعة الصناعية",
-   "en": "Suitable for packaging and industrial printing applications"
-  },
-  {
-   "id": "85",
-   "page": "المنتجات",
-   "ar": "تركيبة مائية تدعم توجهات الطباعة الأكثر استدامة",
-   "en": "Water-based formulation that supports more sustainable printing"
-  },
-  {
-   "id": "86",
-   "page": "المنتجات",
-   "ar": "هي أحبار ذات أساس مائي أي يدخل في تركيبها عنصر الماء كمكون أساسي وأمان في الاستخدام عن نظيرها من الأحبار، وتستخدم بكثرة في الصناعات الغذائية لأمانها وأيضاً صناعة الكرتون والأكواب الورقية والمناديل الورقية والكراس. وتعد هذه الأحبار الأرخص ثمناً والأكثر استهلاكاً نظراً لدخول الماء في تخفيفها.",
-   "en": "Water-based inks, where water is a main component of the formulation, making them safer to use than other inks. They are widely used in the food industry for their safety, and in making cartons, paper cups, tissues and notebooks. They are the cheapest and most consumed inks, since water is used to dilute them."
-  },
-  {
-   "id": "87",
-   "page": "المنتجات",
-   "ar": "ورق الكرافت",
-   "en": "Kraft paper"
-  },
-  {
-   "id": "88",
-   "page": "المنتجات",
-   "ar": "الكرتون المضلع",
-   "en": "Corrugated cartons"
-  },
-  {
-   "id": "89",
-   "page": "المنتجات",
-   "ar": "عبوات المواد الغذائية (طباعة خارجية)",
-   "en": "Food packaging (outer printing)"
-  },
-  {
-   "id": "90",
-   "page": "المنتجات",
-   "ar": "شكاير الأسمنت",
-   "en": "Cement bags"
-  },
-  {
-   "id": "91",
-   "page": "المنتجات",
-   "ar": "ثبات أثناء التشغيل",
-   "en": "Stability during operation"
-  },
-  {
-   "id": "92",
-   "page": "المنتجات",
-   "ar": "تغطية ممتازة",
-   "en": "Excellent coverage"
-  },
-  {
-   "id": "93",
-   "page": "المنتجات",
-   "ar": "صديقة للبيئة",
-   "en": "Eco-friendly"
-  },
-  {
-   "id": "94",
-   "page": "المنتجات",
-   "ar": "ورنيش أكريليك لإضفاء لمسة نهائية لامعة وحماية للسطح المطبوع، مناسب لتطبيقات التغليف والطباعة على الكرتون والورق.",
-   "en": "Acrylic varnish that adds a glossy finish and protects the printed surface, suitable for packaging and for printing on cartons and paper."
-  },
-  {
-   "id": "95",
-   "page": "المنتجات",
-   "ar": "يتوفر منه أنواع متعددة لتناسب الورق المطلي وغير المطلي وأكواب الورق والملصقات، وتظهر مواصفاتها الفنية في الجدول المرفق.",
-   "en": "Available in several types to suit coated and uncoated paper, paper cups and labels; technical specifications are shown in the attached table."
-  },
-  {
-   "id": "96",
-   "page": "المنتجات",
-   "ar": "مركزات ألوان الأحبار",
-   "en": "Ink Color Concentrates"
-  },
-  {
-   "id": "97",
-   "page": "المنتجات",
-   "ar": "مركزات الألوان (بيجمنت) هي ما يمنح الحبر لونه، وبدونها لا يوجد حبر.",
-   "en": "Pigments are what give ink its color — without them there is no ink."
-  },
-  {
-   "id": "98",
-   "page": "المنتجات",
-   "ar": "الاستخدامات",
-   "en": "Uses"
-  },
-  {
-   "id": "99",
-   "page": "المنتجات",
-   "ar": "أحبار الطباعة",
-   "en": "Printing inks"
-  },
-  {
-   "id": "100",
-   "page": "المنتجات",
-   "ar": "الدهانات والطلاء",
-   "en": "Coating"
-  },
-  {
-   "id": "101",
-   "page": "المنتجات",
-   "ar": "الطباعة على الأقمشة",
-   "en": "Textile printing"
-  },
-  {
-   "id": "102",
-   "page": "المنتجات",
-   "ar": "التخزين والتداول",
-   "en": "Storage & handling"
-  },
-  {
-   "id": "103",
-   "page": "المنتجات",
-   "ar": "البلاستيك والمطاط",
-   "en": "Plastic & rubber"
-  },
-  {
-   "id": "104",
-   "page": "المنتجات",
-   "ar": "فريقنا الفني يوفر لك الاستشارة اللازمة ويرشدك إلى الخيار الصحيح.",
-   "en": "Our technical team provides the consultation you need and guides you to the right choice."
-  },
-  {
-   "id": "105",
-   "page": "المنتجات",
-   "ar": "اطلب عرض سعر",
-   "en": "Request a Quote"
-  },
-  {
-   "id": "106",
-   "page": "التطبيقات",
-   "ar": "أين تُستخدم أحبارنا؟ من الكرتون والورق إلى الأكياس والتغليف المرن والبلاستيك.",
-   "en": "Where are our inks used? From cartons and paper to bags, flexible packaging and plastic."
-  },
-  {
-   "id": "107",
-   "page": "التطبيقات",
-   "ar": "مركزات ألوان الأحبار",
-   "en": "Ink Color Concentrates"
-  },
-  {
-   "id": "108",
-   "page": "التطبيقات",
-   "ar": "مركزات ألوان تمنح الطباعة قوة لونية وتغطية ممتازة، وتُستخدم كأساس لتحضير الأحبار بدرجات الألوان المطلوبة في مختلف قطاعات التغليف والصناعة.",
-   "en": "Color concentrates that give prints strong color strength and excellent coverage, used as the base for preparing inks in the required shades across packaging and industrial sectors."
-  },
-  {
-   "id": "109",
-   "page": "التطبيقات",
-   "ar": "قوة لونية",
-   "en": "Color strength"
-  },
-  {
-   "id": "110",
-   "page": "التطبيقات",
-   "ar": "ثبات اللون",
-   "en": "Color stability"
-  },
-  {
-   "id": "111",
-   "page": "التطبيقات",
-   "ar": "أحبار مائية بلاستيكية",
-   "en": "Water-Based Plastic Inks"
-  },
-  {
-   "id": "112",
-   "page": "التطبيقات",
-   "ar": "للطباعة على الأفلام والأكياس البلاستيكية بالتصاق جيد ومقاومة للخدش والرطوبة، ومناسبة لخطوط الطباعة عالية السرعة مع درجات لمعان متعددة.",
-   "en": "For printing on plastic films and bags with good adhesion and resistance to scratching and moisture, suitable for high-speed printing lines with multiple gloss levels."
-  },
-  {
-   "id": "113",
-   "page": "التطبيقات",
-   "ar": "أكياس بلاستيك",
-   "en": "Plastic bags"
-  },
-  {
-   "id": "114",
-   "page": "التطبيقات",
-   "ar": "أفلام التغليف",
-   "en": "Packaging films"
-  },
-  {
-   "id": "115",
-   "page": "التطبيقات",
-   "ar": "طباعة عالية السرعة",
-   "en": "High-speed printing"
-  },
-  {
-   "id": "116",
-   "page": "التطبيقات",
-   "ar": "حل آمن وصديق للبيئة للصناعات الغذائية والكرتون والورق، بثبات أثناء التشغيل وسرعة جفاف عالية وتكلفة اقتصادية.",
-   "en": "A safe, eco-friendly solution for the food industry, cartons and paper, with stable operation, fast drying and economical cost."
-  },
-  {
-   "id": "117",
-   "page": "التطبيقات",
-   "ar": "عبوات الأغذية",
-   "en": "Food packaging"
-  },
-  {
-   "id": "118",
-   "page": "التطبيقات",
-   "ar": "القطاعات التي نخدمها",
-   "en": "Sectors We Serve"
-  },
-  {
-   "id": "119",
-   "page": "التطبيقات",
-   "ar": "حبر مناسب لكل سطح، من الورق المسامي إلى البلاستيك غير المسامي.",
-   "en": "The right ink for every surface, from porous paper to non-porous plastic."
-  },
-  {
-   "id": "120",
-   "page": "التطبيقات",
-   "ar": "الكرتون",
-   "en": "Cartons"
-  },
-  {
-   "id": "121",
-   "page": "التطبيقات",
-   "ar": "طباعة الكرتون المضلع وصناديق الشحن والتعبئة بأحبار مائية سريعة الجفاف.",
-   "en": "Printing on corrugated cartons and shipping and packing boxes with fast-drying water-based inks."
-  },
-  {
-   "id": "122",
-   "page": "التطبيقات",
-   "ar": "الورق",
-   "en": "Paper"
-  },
-  {
-   "id": "123",
-   "page": "التطبيقات",
-   "ar": "ورق الكرافت والأكواب الورقية والمناديل والكراسات.",
-   "en": "Kraft paper, paper cups, tissues and notebooks."
-  },
-  {
-   "id": "124",
-   "page": "التطبيقات",
-   "ar": "الأكياس",
-   "en": "Bags"
-  },
-  {
-   "id": "125",
-   "page": "التطبيقات",
-   "ar": "الشكائر المنسوجة وأكياس البلاستيك وشكاير السكر والدقيق والأعلاف والأسمنت.",
-   "en": "Woven sacks, plastic bags, and sugar, flour, feed and cement sacks."
-  },
-  {
-   "id": "126",
-   "page": "التطبيقات",
-   "ar": "التغليف المرن",
-   "en": "Flexible Packaging"
-  },
-  {
-   "id": "127",
-   "page": "التطبيقات",
-   "ar": "رولات التغليف والـ Lamination للأغذية والمنتجات الاستهلاكية.",
-   "en": "Packaging rolls and lamination for food and consumer products."
-  },
-  {
-   "id": "128",
-   "page": "التطبيقات",
-   "ar": "البلاستيك",
-   "en": "Plastic"
-  },
-  {
-   "id": "129",
-   "page": "التطبيقات",
-   "ar": "أفلام PE / HDPE / PP بالتصاق قوي ومقاومة للاحتكاك والخدش.",
-   "en": "PE / HDPE / PP films with strong adhesion and resistance to rubbing and scratching."
-  },
-  {
-   "id": "130",
-   "page": "التطبيقات",
-   "ar": "وغيرها",
-   "en": "And More"
-  },
-  {
-   "id": "131",
-   "page": "التطبيقات",
-   "ar": "عبوات المواد الغذائية وتطبيقات صناعية أخرى - تواصل معنا لحل مخصص.",
-   "en": "Food packaging and other industrial applications - contact us for a custom solution."
-  },
-  {
-   "id": "132",
-   "page": "التطبيقات",
-   "ar": "احصل على عرض سعر مخصص لاحتياجاتك، وتعرّف على خياراتنا التنافسية.",
-   "en": "Get a quote tailored to your needs and discover our competitive options."
-  },
-  {
-   "id": "133",
-   "page": "التطبيقات",
-   "ar": "اسأل فريقنا",
-   "en": "Ask Our Team"
-  },
-  {
-   "id": "134",
-   "page": "اتصل بنا",
-   "ar": "يسعدنا تواصلك معنا للاستفسار أو طلب عرض سعر أو عينة.",
-   "en": "We're glad to hear from you for inquiries, quotes or samples."
-  },
-  {
-   "id": "135",
-   "page": "اتصل بنا",
-   "ar": "Phone · الهاتف",
-   "en": "Phone"
-  },
-  {
-   "id": "136",
-   "page": "اتصل بنا",
-   "ar": "WhatsApp · واتساب",
-   "en": "WhatsApp"
-  },
-  {
-   "id": "138",
-   "page": "اتصل بنا",
-   "ar": "Facebook · فيسبوك",
-   "en": "Facebook"
-  },
-  {
-   "id": "139",
-   "page": "اتصل بنا",
-   "ar": "Ink Master على فيسبوك",
-   "en": "Ink Master on Facebook"
-  },
-  {
-   "id": "140",
-   "page": "اتصل بنا",
-   "ar": "Address · العنوان",
-   "en": "Address"
-  },
-  {
-   "id": "141",
-   "page": "اتصل بنا",
-   "ar": "أرسل رسالتك",
-   "en": "Send Your Message"
-  },
-  {
-   "id": "142",
-   "page": "اتصل بنا",
-   "ar": "املأ البيانات وسنفتح لك محادثة واتساب جاهزة بالرسالة.",
-   "en": "Fill in the details and we'll open a WhatsApp chat with your message ready."
-  },
-  {
-   "id": "143",
-   "page": "اتصل بنا",
-   "ar": "الاسم",
-   "en": "Name"
-  },
-  {
-   "id": "144",
-   "page": "اتصل بنا",
-   "ar": "الشركة (اختياري)",
-   "en": "Company (optional)"
-  },
-  {
-   "id": "145",
-   "page": "اتصل بنا",
-   "ar": "نوع الاستفسار",
-   "en": "Inquiry Type"
-  },
-  {
-   "id": "146",
-   "page": "اتصل بنا",
-   "ar": "أحبار مذيبة",
-   "en": "Solvent Inks"
-  },
-  {
-   "id": "147",
-   "page": "اتصل بنا",
-   "ar": "أحبار مائية",
-   "en": "Water-Based Inks"
-  },
-  {
-   "id": "148",
-   "page": "اتصل بنا",
-   "ar": "مركزات ألوان / كيماويات",
-   "en": "Color Concentrates / Chemicals"
-  },
-  {
-   "id": "149",
-   "page": "اتصل بنا",
-   "ar": "استفسار آخر",
-   "en": "Other Inquiry"
-  },
-  {
-   "id": "150",
-   "page": "اتصل بنا",
-   "ar": "الرسالة",
-   "en": "Message"
-  },
-  {
-   "id": "151",
-   "page": "اتصل بنا",
-   "ar": "إرسال عبر واتساب",
-   "en": "Send via WhatsApp"
-  },
-  {
-   "id": "152",
-   "page": "اتصل بنا",
-   "ar": "موقعنا على الخريطة",
-   "en": "Our Location on the Map"
-  },
-  {
-   "id": "153",
-   "page": "اتصل بنا",
-   "ar": "الروبيكي - مدينة العاشر من رمضان، مصر",
-   "en": "Al-Robeiki - 10th of Ramadan City, Egypt"
-  },
-  {
-   "id": "154",
-   "page": "اتصل بنا",
-   "ar": "افتح الموقع على خرائط جوجل",
-   "en": "Open in Google Maps"
-  },
-  {
-   "id": "155",
-   "page": "المنتجات",
-   "ar": "11 درجة لونية · pH من 8.5 إلى 9.5 · ثبات ضوء من 4 إلى 8",
-   "en": "11 shades · pH 8.5–9.5 · light fastness 4–8"
-  },
-  {
-   "id": "156",
-   "page": "المنتجات",
-   "ar": "تُخزَّن جافة بين +10 و +40 درجة مئوية",
-   "en": "Store dry between +10°C and +40°C"
-  },
-  {
-   "id": "157",
-   "page": "المنتجات",
-   "ar": "تجنّب التجمّد والحرارة الزائدة ومصادر اللهب",
-   "en": "Avoid freezing and keep away from excessive heat or flame"
-  },
-  {
-   "id": "158",
-   "page": "المنتجات",
-   "ar": "استخدم المخزون الأقدم أولاً",
-   "en": "Rotate stock — use older product first"
-  },
-  {
-   "id": "159",
-   "page": "المنتجات",
-   "ar": "أبقِ العبوات مغلقة، ومدة الصلاحية حتى 12 شهراً",
-   "en": "Keep containers closed — shelf life up to 12 months"
-  },
-  {
-   "id": "168",
-   "page": "المنتجات",
-   "ar": "مكان مغطى وجيد التهوية (بحد أقصى 12 شهراً)",
-   "en": "Store in a covered, ventilated area (max 12 months)"
-  },
-  {
-   "id": "169",
-   "page": "المنتجات",
-   "ar": "تجنّب التعرض الطويل والمباشر للهواء",
-   "en": "Avoid long direct air exposure to the product"
-  }
- ]
+  "texts": [
+    {
+      "id": "0",
+      "page": "الرئيسية",
+      "ar": "الرئيسية",
+      "en": "Home"
+    },
+    {
+      "id": "1",
+      "page": "الرئيسية",
+      "ar": "من نحن",
+      "en": "About Us"
+    },
+    {
+      "id": "2",
+      "page": "الرئيسية",
+      "ar": "المنتجات",
+      "en": "Products"
+    },
+    {
+      "id": "3",
+      "page": "الرئيسية",
+      "ar": "التطبيقات",
+      "en": "Applications"
+    },
+    {
+      "id": "4",
+      "page": "الرئيسية",
+      "ar": "اتصل بنا",
+      "en": "Contact Us"
+    },
+    {
+      "id": "5",
+      "page": "الرئيسية",
+      "ar": "Home · الرئيسية",
+      "en": "Home"
+    },
+    {
+      "id": "6",
+      "page": "الرئيسية",
+      "ar": "خبراء صناعة الأحبار",
+      "en": "Ink Manufacturing Experts"
+    },
+    {
+      "id": "7",
+      "page": "الرئيسية",
+      "ar": "شركة مصرية متخصصة في تصنيع أحبار الطباعة عالية الأداء والورنيشات ومركزات الألوان والمواد اللاصقة الصناعية لقطاعات التعبئة والتغليف والصناعات المختلفة.",
+      "en": "An Egyptian company specializing in manufacturing high-performance printing inks, varnishes, color concentrates and industrial adhesives for the packaging and other industries."
+    },
+    {
+      "id": "8",
+      "page": "الرئيسية",
+      "ar": "أهم المنتجات",
+      "en": "Top Products"
+    },
+    {
+      "id": "9",
+      "page": "الرئيسية",
+      "ar": "الجودة والخبرة",
+      "en": "Quality & Experience"
+    },
+    {
+      "id": "10",
+      "page": "الرئيسية",
+      "ar": "تعريف سريع",
+      "en": "Quick Overview"
+    },
+    {
+      "id": "11",
+      "page": "الرئيسية",
+      "ar": "حلول طباعة متكاملة تجمع بين الجودة العالية وأفضل معادلة تكلفة مقابل أداء.",
+      "en": "Complete printing solutions that combine high quality with the best cost-to-performance ratio."
+    },
+    {
+      "id": "12",
+      "page": "الرئيسية",
+      "ar": "من خلال خبرة فنية قوية واستراتيجية تطوير مستمرة، نقدم في Ink Master حلول طباعة متكاملة تهدف إلى تحسين جودة الطباعة وزيادة كفاءة الإنتاج، مع إجراءات رقابة جودة صارمة تضمن ثبات الجودة والاعتمادية.",
+      "en": "With strong technical expertise and a strategy of continuous development, Ink Master delivers complete printing solutions that improve print quality and raise production efficiency, backed by strict quality-control procedures that ensure consistency and reliability."
+    },
+    {
+      "id": "13",
+      "page": "الرئيسية",
+      "ar": "ننتج أحباراً مذيبة ومائية وورنيشات ومركزات ألوان تخدم الشكائر المنسوجة والأكياس البلاستيكية والكرتون وعبوات الأغذية والتغليف المرن.",
+      "en": "We produce solvent-based and water-based inks, varnishes and color concentrates for woven sacks, plastic bags, cartons, food packaging and flexible packaging."
+    },
+    {
+      "id": "14",
+      "page": "الرئيسية",
+      "ar": "اقرأ قصتنا",
+      "en": "Read Our Story"
+    },
+    {
+      "id": "15",
+      "page": "الرئيسية",
+      "ar": "تشكيلة من الأحبار المصممة لكل سطح وكل خط إنتاج.",
+      "en": "A range of inks designed for every surface and every production line."
+    },
+    {
+      "id": "16",
+      "page": "الرئيسية",
+      "ar": "الأحبار المذيبة",
+      "en": "Solvent-Based Inks"
+    },
+    {
+      "id": "17",
+      "page": "الرئيسية",
+      "ar": "التصاق عالي وجفاف سريع للشكائر المنسوجة وأكياس البلاستيك ورولات التغليف.",
+      "en": "High adhesion and fast drying for woven sacks, plastic bags and packaging rolls."
+    },
+    {
+      "id": "18",
+      "page": "الرئيسية",
+      "ar": "التفاصيل",
+      "en": "Details"
+    },
+    {
+      "id": "19",
+      "page": "الرئيسية",
+      "ar": "أحبار مائية للطباعة على البلاستيك",
+      "en": "Water-Based Inks for Plastic"
+    },
+    {
+      "id": "20",
+      "page": "الرئيسية",
+      "ar": "مقاومة للخدش والرطوبة وملائمة للطباعة عالية السرعة على الأفلام البلاستيكية.",
+      "en": "Resistant to scratching and moisture, and suited to high-speed printing on plastic films."
+    },
+    {
+      "id": "21",
+      "page": "الرئيسية",
+      "ar": "الأحبار المائية",
+      "en": "Water-Based Inks"
+    },
+    {
+      "id": "22",
+      "page": "الرئيسية",
+      "ar": "آمنة وصديقة للبيئة للكرتون وعبوات الأغذية وورق الكرافت وشكاير الأسمنت.",
+      "en": "Safe and eco-friendly for cartons, food packaging, kraft paper and cement bags."
+    },
+    {
+      "id": "23",
+      "page": "الرئيسية",
+      "ar": "كل المنتجات",
+      "en": "All Products"
+    },
+    {
+      "id": "24",
+      "page": "الرئيسية",
+      "ar": "نظام إنتاج قائم على الرقابة الصارمة والتطوير المستمر لنضمن لك منتجاً يمكنك الاعتماد عليه.",
+      "en": "A production system built on strict control and continuous development, so you get a product you can rely on."
+    },
+    {
+      "id": "25",
+      "page": "الرئيسية",
+      "ar": "رقابة جودة صارمة",
+      "en": "Strict Quality Control"
+    },
+    {
+      "id": "26",
+      "page": "الرئيسية",
+      "ar": "إجراءات فحص في كل مرحلة إنتاج لضمان ثبات الجودة من تشغيلة لأخرى.",
+      "en": "Inspection at every production stage to keep quality consistent from batch to batch."
+    },
+    {
+      "id": "27",
+      "page": "الرئيسية",
+      "ar": "خبرة فنية قوية",
+      "en": "Strong Technical Expertise"
+    },
+    {
+      "id": "28",
+      "page": "الرئيسية",
+      "ar": "فريق كيميائي متخصص في تطوير التركيبات وحل مشكلات الطباعة.",
+      "en": "A specialized team of chemists developing formulations and solving printing problems."
+    },
+    {
+      "id": "29",
+      "page": "الرئيسية",
+      "ar": "كفاءة وتكلفة مثالية",
+      "en": "Efficiency & Optimal Cost"
+    },
+    {
+      "id": "30",
+      "page": "الرئيسية",
+      "ar": "أداء أفضل على خط الإنتاج وأفضل معادلة تكلفة مقابل أداء.",
+      "en": "Better performance on the production line and the best cost-to-performance ratio."
+    },
+    {
+      "id": "31",
+      "page": "الرئيسية",
+      "ar": "أسواق محلية وتصديرية",
+      "en": "Local & Export Markets"
+    },
+    {
+      "id": "32",
+      "page": "الرئيسية",
+      "ar": "توافق مع متطلبات الأسواق المحلية والتصديرية.",
+      "en": "Compliant with the requirements of local and export markets."
+    },
+    {
+      "id": "33",
+      "page": "الرئيسية",
+      "ar": "لكل خامة حبر يناسبها، وفريقنا الفني يساعدك في تحديد الخيار الأفضل لاحتياجاتك.",
+      "en": "Every material has the right ink — our technical team helps you choose the best option for your needs."
+    },
+    {
+      "id": "34",
+      "page": "الرئيسية",
+      "ar": "تواصل معنا",
+      "en": "Contact Us"
+    },
+    {
+      "id": "35",
+      "page": "الرئيسية",
+      "ar": "روابط سريعة",
+      "en": "Quick Links"
+    },
+    {
+      "id": "36",
+      "page": "الرئيسية",
+      "ar": "الرئيسية ·",
+      "en": ""
+    },
+    {
+      "id": "37",
+      "page": "الرئيسية",
+      "ar": "من نحن ·",
+      "en": ""
+    },
+    {
+      "id": "38",
+      "page": "الرئيسية",
+      "ar": "المنتجات ·",
+      "en": ""
+    },
+    {
+      "id": "39",
+      "page": "الرئيسية",
+      "ar": "التطبيقات ·",
+      "en": ""
+    },
+    {
+      "id": "40",
+      "page": "الرئيسية",
+      "ar": "اتصل بنا ·",
+      "en": ""
+    },
+    {
+      "id": "41",
+      "page": "الرئيسية",
+      "ar": "قطعه رقم 154 محور المنطقة الصناعية السابعة - مدينة السادات - المنوفية.",
+      "en": "Plot No. 154, 7th Industrial Zone Axis – Sadat City _Monufia."
+    },
+    {
+      "id": "42",
+      "page": "الرئيسية",
+      "ar": "© 2026 Ink Master. جميع الحقوق محفوظة.",
+      "en": "© 2026 Ink Master. All rights reserved."
+    },
+    {
+      "id": "43",
+      "page": "من نحن",
+      "ar": "تعرف على قصة الشركة وخبرتها ورؤيتها والفريق الذي يقف وراء جودة منتجاتنا.",
+      "en": "Learn about the company's story, expertise, vision and the team behind the quality of our products."
+    },
+    {
+      "id": "44",
+      "page": "من نحن",
+      "ar": "قصة الشركة",
+      "en": "Company Story"
+    },
+    {
+      "id": "45",
+      "page": "من نحن",
+      "ar": "Ink Master شركة مصرية متخصصة في تصنيع أحبار الطباعة عالية الأداء والورنيشات ومركزات الألوان والمواد اللاصقة الصناعية لقطاعات التعبئة والتغليف والصناعات المختلفة.",
+      "en": "Ink Master is an Egyptian company specializing in manufacturing high-performance printing inks, varnishes, color concentrates and industrial adhesives for the packaging and other industries."
+    },
+    {
+      "id": "46",
+      "page": "من نحن",
+      "ar": "من خلال خبرة فنية قوية واستراتيجية تطوير مستمرة، نقدم حلول طباعة متكاملة تهدف إلى تحسين جودة الطباعة وزيادة كفاءة الإنتاج وتحقيق أفضل معادلة تكلفة مقابل أداء.",
+      "en": "With strong technical expertise and a strategy of continuous development, we deliver complete printing solutions that improve print quality, increase production efficiency and achieve the best cost-to-performance ratio."
+    },
+    {
+      "id": "47",
+      "page": "من نحن",
+      "ar": "يعتمد نظام الإنتاج لدينا على إجراءات رقابة جودة صارمة لضمان ثبات الجودة والاعتمادية والتوافق مع متطلبات الأسواق المحلية والتصديرية.",
+      "en": "Our production system relies on strict quality-control procedures to ensure consistent quality, reliability and compliance with the requirements of local and export markets."
+    },
+    {
+      "id": "48",
+      "page": "من نحن",
+      "ar": "الخبرة والرؤية",
+      "en": "Expertise & Vision"
+    },
+    {
+      "id": "49",
+      "page": "من نحن",
+      "ar": "الخبرة",
+      "en": "Expertise"
+    },
+    {
+      "id": "50",
+      "page": "من نحن",
+      "ar": "خبرة فنية متراكمة في كيمياء الأحبار والورنيشات تمكننا من تطوير تركيبات تناسب مختلف الأسطح وخطوط الطباعة.",
+      "en": "Accumulated technical expertise in ink and varnish chemistry lets us develop formulations that suit a wide range of surfaces and printing lines."
+    },
+    {
+      "id": "51",
+      "page": "من نحن",
+      "ar": "تطوير مستمر للتركيبات حسب احتياج العميل",
+      "en": "Continuous development of formulations according to customer needs"
+    },
+    {
+      "id": "52",
+      "page": "من نحن",
+      "ar": "دعم فني لحل مشكلات الطباعة والتشغيل",
+      "en": "Technical support to solve printing and operating problems"
+    },
+    {
+      "id": "53",
+      "page": "من نحن",
+      "ar": "تغطية قطاعات التعبئة والتغليف والصناعات المختلفة",
+      "en": "Coverage of packaging and other industrial sectors"
+    },
+    {
+      "id": "54",
+      "page": "من نحن",
+      "ar": "الرؤية",
+      "en": "Vision"
+    },
+    {
+      "id": "55",
+      "page": "من نحن",
+      "ar": "أن نكون الاسم الأول الموثوق في صناعة الأحبار في مصر والمنطقة، بمنتجات تجمع الجودة والاعتمادية وأفضل قيمة مقابل التكلفة.",
+      "en": "To be the first trusted name in the ink industry in Egypt and the region, with products that combine quality, reliability and the best value for cost."
+    },
+    {
+      "id": "56",
+      "page": "من نحن",
+      "ar": "جودة ثابتة تُبنى عليها الثقة",
+      "en": "Consistent quality that trust is built on"
+    },
+    {
+      "id": "57",
+      "page": "من نحن",
+      "ar": "حلول تدعم التوجهات الأكثر استدامة",
+      "en": "Solutions that support more sustainable trends"
+    },
+    {
+      "id": "58",
+      "page": "من نحن",
+      "ar": "شراكة طويلة المدى مع عملائنا",
+      "en": "Long-term partnership with our customers"
+    },
+    {
+      "id": "59",
+      "page": "من نحن",
+      "ar": "الإدارة والفنيين",
+      "en": "Management & Technicians"
+    },
+    {
+      "id": "60",
+      "page": "المنتجات",
+      "ar": "الأحبار والورنيش ومركزات الألوان، مع أنواع كل منتج واستخداماته.",
+      "en": "Inks, varnish and color concentrates, with the types and uses of each product."
+    },
+    {
+      "id": "61",
+      "page": "المنتجات",
+      "ar": "أحبار مائية للبلاستيك",
+      "en": "Water-Based Inks for Plastic"
+    },
+    {
+      "id": "62",
+      "page": "المنتجات",
+      "ar": "ورنيش أكريليك",
+      "en": "Acrylic Varnish"
+    },
+    {
+      "id": "63",
+      "page": "المنتجات",
+      "ar": "مركزات الألوان",
+      "en": "Color Concentrates"
+    },
+    {
+      "id": "64",
+      "page": "المنتجات",
+      "ar": "هي أحبار ذات أساس مذيب مصممة خصيصاً للطباعة على الأسطح غير المسامية، تتميز بقوة التصاق عالية وسرعة جفاف فائقة وثبات ممتاز. تستخدم على نطاق واسع في طباعة الشكائر المنسوجة وأكياس البلاستيك ورولات التغليف.",
+      "en": "Solvent-based inks designed specifically for printing on non-porous surfaces, offering strong adhesion, very fast drying and excellent stability. Widely used for printing woven sacks, plastic bags and packaging rolls."
+    },
+    {
+      "id": "65",
+      "page": "المنتجات",
+      "ar": "المميزات",
+      "en": "Features"
+    },
+    {
+      "id": "66",
+      "page": "المنتجات",
+      "ar": "قوة التصاق عالية على البلاستيك",
+      "en": "Strong adhesion to plastic"
+    },
+    {
+      "id": "67",
+      "page": "المنتجات",
+      "ar": "مقاومة ممتازة للاحتكاك والخدش",
+      "en": "Excellent resistance to rubbing and scratching"
+    },
+    {
+      "id": "68",
+      "page": "المنتجات",
+      "ar": "سرعة جفاف عالية",
+      "en": "Fast drying"
+    },
+    {
+      "id": "69",
+      "page": "المنتجات",
+      "ar": "ثبات عالي أثناء التشغيل",
+      "en": "High stability during operation"
+    },
+    {
+      "id": "70",
+      "page": "المنتجات",
+      "ar": "قوة لونية وتغطية ممتازة",
+      "en": "Excellent color strength and coverage"
+    },
+    {
+      "id": "71",
+      "page": "المنتجات",
+      "ar": "الاستخدامات",
+      "en": "Uses"
+    },
+    {
+      "id": "72",
+      "page": "المنتجات",
+      "ar": "الشكائر المنسوجة (PP Woven)",
+      "en": "Woven sacks (PP Woven)"
+    },
+    {
+      "id": "73",
+      "page": "المنتجات",
+      "ar": "أكياس البلاستيك (PE / HDPE)",
+      "en": "Plastic bags (PE / HDPE)"
+    },
+    {
+      "id": "74",
+      "page": "المنتجات",
+      "ar": "رولات التغليف والـ Lamination",
+      "en": "Packaging rolls and lamination"
+    },
+    {
+      "id": "75",
+      "page": "المنتجات",
+      "ar": "شكائر السكر والدقيق والأعلاف",
+      "en": "Sugar, flour and feed sacks"
+    },
+    {
+      "id": "76",
+      "page": "المنتجات",
+      "ar": "سلسلة متطورة من الأحبار المائية المصممة للطباعة على مجموعة متنوعة من الأفلام والأسطح البلاستيكية، مع التركيز على تحقيق قوة التصاق جيدة، وجودة طباعة مستقرة، ومقاومة عالية للخدش والرطوبة.",
+      "en": "An advanced series of water-based inks designed for printing on a variety of plastic films and surfaces, focused on good adhesion, stable print quality and high resistance to scratching and moisture."
+    },
+    {
+      "id": "77",
+      "page": "المنتجات",
+      "ar": "تتميز هذه الأحبار بإمكانية استخدامها في تطبيقات الطباعة عالية السرعة، مع توفر درجات مختلفة من اللمعان بما يتناسب مع متطلبات التعبئة والتغليف.",
+      "en": "These inks can be used in high-speed printing applications, with a choice of gloss levels to suit packaging requirements."
+    },
+    {
+      "id": "78",
+      "page": "المنتجات",
+      "ar": "يعتمد الأداء النهائي على نوع البلاستيك ومعالجة السطح وظروف الطباعة والتجفيف، ويُنصح باستخدام معالجة Corona مناسبة وأنظمة تجفيف فعالة، خاصة عند الطباعة على الأفلام منخفضة الطاقة السطحية.",
+      "en": "Final performance depends on the plastic type, surface treatment and printing and drying conditions. Suitable corona treatment and effective drying systems are recommended, especially when printing on low-surface-energy films."
+    },
+    {
+      "id": "79",
+      "page": "المنتجات",
+      "ar": "قوة التصاق جيدة على الأسطح البلاستيكية المعالجة",
+      "en": "Good adhesion on treated plastic surfaces"
+    },
+    {
+      "id": "80",
+      "page": "المنتجات",
+      "ar": "مقاومة عالية للخدش والرطوبة",
+      "en": "High resistance to scratching and moisture"
+    },
+    {
+      "id": "81",
+      "page": "المنتجات",
+      "ar": "مقاومة جيدة للحرارة",
+      "en": "Good heat resistance"
+    },
+    {
+      "id": "82",
+      "page": "المنتجات",
+      "ar": "مناسبة للطباعة عالية السرعة",
+      "en": "Suitable for high-speed printing"
+    },
+    {
+      "id": "83",
+      "page": "المنتجات",
+      "ar": "درجات لمعان متعددة",
+      "en": "Multiple gloss levels"
+    },
+    {
+      "id": "84",
+      "page": "المنتجات",
+      "ar": "مناسبة لتطبيقات التغليف والطباعة الصناعية",
+      "en": "Suitable for packaging and industrial printing applications"
+    },
+    {
+      "id": "85",
+      "page": "المنتجات",
+      "ar": "تركيبة مائية تدعم توجهات الطباعة الأكثر استدامة",
+      "en": "Water-based formulation that supports more sustainable printing"
+    },
+    {
+      "id": "86",
+      "page": "المنتجات",
+      "ar": "هي أحبار ذات أساس مائي أي يدخل في تركيبها عنصر الماء كمكون أساسي وأمان في الاستخدام عن نظيرها من الأحبار، وتستخدم بكثرة في الصناعات الغذائية لأمانها وأيضاً صناعة الكرتون والأكواب الورقية والمناديل الورقية والكراس. وتعد هذه الأحبار الأرخص ثمناً والأكثر استهلاكاً نظراً لدخول الماء في تخفيفها.",
+      "en": "Water-based inks, where water is a main component of the formulation, making them safer to use than other inks. They are widely used in the food industry for their safety, and in making cartons, paper cups, tissues and notebooks. They are the cheapest and most consumed inks, since water is used to dilute them."
+    },
+    {
+      "id": "87",
+      "page": "المنتجات",
+      "ar": "ورق الكرافت",
+      "en": "Kraft paper"
+    },
+    {
+      "id": "88",
+      "page": "المنتجات",
+      "ar": "الكرتون المضلع",
+      "en": "Corrugated cartons"
+    },
+    {
+      "id": "89",
+      "page": "المنتجات",
+      "ar": "عبوات المواد الغذائية (طباعة خارجية)",
+      "en": "Food packaging (outer printing)"
+    },
+    {
+      "id": "90",
+      "page": "المنتجات",
+      "ar": "شكاير الأسمنت",
+      "en": "Cement bags"
+    },
+    {
+      "id": "91",
+      "page": "المنتجات",
+      "ar": "ثبات أثناء التشغيل",
+      "en": "Stability during operation"
+    },
+    {
+      "id": "92",
+      "page": "المنتجات",
+      "ar": "تغطية ممتازة",
+      "en": "Excellent coverage"
+    },
+    {
+      "id": "93",
+      "page": "المنتجات",
+      "ar": "صديقة للبيئة",
+      "en": "Eco-friendly"
+    },
+    {
+      "id": "94",
+      "page": "المنتجات",
+      "ar": "ورنيش أكريليك لإضفاء لمسة نهائية لامعة وحماية للسطح المطبوع، مناسب لتطبيقات التغليف والطباعة على الكرتون والورق.",
+      "en": "Acrylic varnish that adds a glossy finish and protects the printed surface, suitable for packaging and for printing on cartons and paper."
+    },
+    {
+      "id": "95",
+      "page": "المنتجات",
+      "ar": "يتوفر منه أنواع متعددة لتناسب الورق المطلي وغير المطلي وأكواب الورق والملصقات، وتظهر مواصفاتها الفنية في الجدول المرفق.",
+      "en": "Available in several types to suit coated and uncoated paper, paper cups and labels; technical specifications are shown in the attached table."
+    },
+    {
+      "id": "96",
+      "page": "المنتجات",
+      "ar": "مركزات ألوان الأحبار",
+      "en": "Ink Color Concentrates"
+    },
+    {
+      "id": "97",
+      "page": "المنتجات",
+      "ar": "مركزات الألوان (بيجمنت) هي ما يمنح الحبر لونه، وبدونها لا يوجد حبر.",
+      "en": "Pigments are what give ink its color — without them there is no ink."
+    },
+    {
+      "id": "98",
+      "page": "المنتجات",
+      "ar": "الاستخدامات",
+      "en": "Uses"
+    },
+    {
+      "id": "99",
+      "page": "المنتجات",
+      "ar": "أحبار الطباعة",
+      "en": "Printing inks"
+    },
+    {
+      "id": "100",
+      "page": "المنتجات",
+      "ar": "الدهانات والطلاء",
+      "en": "Coating"
+    },
+    {
+      "id": "101",
+      "page": "المنتجات",
+      "ar": "الطباعة على الأقمشة",
+      "en": "Textile printing"
+    },
+    {
+      "id": "102",
+      "page": "المنتجات",
+      "ar": "التخزين والتداول",
+      "en": "Storage & handling"
+    },
+    {
+      "id": "103",
+      "page": "المنتجات",
+      "ar": "البلاستيك والمطاط",
+      "en": "Plastic & rubber"
+    },
+    {
+      "id": "104",
+      "page": "المنتجات",
+      "ar": "فريقنا الفني يوفر لك الاستشارة اللازمة ويرشدك إلى الخيار الصحيح.",
+      "en": "Our technical team provides the consultation you need and guides you to the right choice."
+    },
+    {
+      "id": "105",
+      "page": "المنتجات",
+      "ar": "اطلب عرض سعر",
+      "en": "Request a Quote"
+    },
+    {
+      "id": "106",
+      "page": "التطبيقات",
+      "ar": "أين تُستخدم أحبارنا؟ من الكرتون والورق إلى الأكياس والتغليف المرن والبلاستيك.",
+      "en": "Where are our inks used? From cartons and paper to bags, flexible packaging and plastic."
+    },
+    {
+      "id": "107",
+      "page": "التطبيقات",
+      "ar": "مركزات ألوان الأحبار",
+      "en": "Ink Color Concentrates"
+    },
+    {
+      "id": "108",
+      "page": "التطبيقات",
+      "ar": "مركزات ألوان تمنح الطباعة قوة لونية وتغطية ممتازة، وتُستخدم كأساس لتحضير الأحبار بدرجات الألوان المطلوبة في مختلف قطاعات التغليف والصناعة.",
+      "en": "Color concentrates that give prints strong color strength and excellent coverage, used as the base for preparing inks in the required shades across packaging and industrial sectors."
+    },
+    {
+      "id": "109",
+      "page": "التطبيقات",
+      "ar": "قوة لونية",
+      "en": "Color strength"
+    },
+    {
+      "id": "110",
+      "page": "التطبيقات",
+      "ar": "ثبات اللون",
+      "en": "Color stability"
+    },
+    {
+      "id": "111",
+      "page": "التطبيقات",
+      "ar": "أحبار مائية بلاستيكية",
+      "en": "Water-Based Plastic Inks"
+    },
+    {
+      "id": "112",
+      "page": "التطبيقات",
+      "ar": "للطباعة على الأفلام والأكياس البلاستيكية بالتصاق جيد ومقاومة للخدش والرطوبة، ومناسبة لخطوط الطباعة عالية السرعة مع درجات لمعان متعددة.",
+      "en": "For printing on plastic films and bags with good adhesion and resistance to scratching and moisture, suitable for high-speed printing lines with multiple gloss levels."
+    },
+    {
+      "id": "113",
+      "page": "التطبيقات",
+      "ar": "أكياس بلاستيك",
+      "en": "Plastic bags"
+    },
+    {
+      "id": "114",
+      "page": "التطبيقات",
+      "ar": "أفلام التغليف",
+      "en": "Packaging films"
+    },
+    {
+      "id": "115",
+      "page": "التطبيقات",
+      "ar": "طباعة عالية السرعة",
+      "en": "High-speed printing"
+    },
+    {
+      "id": "116",
+      "page": "التطبيقات",
+      "ar": "حل آمن وصديق للبيئة للصناعات الغذائية والكرتون والورق، بثبات أثناء التشغيل وسرعة جفاف عالية وتكلفة اقتصادية.",
+      "en": "A safe, eco-friendly solution for the food industry, cartons and paper, with stable operation, fast drying and economical cost."
+    },
+    {
+      "id": "117",
+      "page": "التطبيقات",
+      "ar": "عبوات الأغذية",
+      "en": "Food packaging"
+    },
+    {
+      "id": "118",
+      "page": "التطبيقات",
+      "ar": "القطاعات التي نخدمها",
+      "en": "Sectors We Serve"
+    },
+    {
+      "id": "119",
+      "page": "التطبيقات",
+      "ar": "حبر مناسب لكل سطح، من الورق المسامي إلى البلاستيك غير المسامي.",
+      "en": "The right ink for every surface, from porous paper to non-porous plastic."
+    },
+    {
+      "id": "120",
+      "page": "التطبيقات",
+      "ar": "الكرتون",
+      "en": "Cartons"
+    },
+    {
+      "id": "121",
+      "page": "التطبيقات",
+      "ar": "طباعة الكرتون المضلع وصناديق الشحن والتعبئة بأحبار مائية سريعة الجفاف.",
+      "en": "Printing on corrugated cartons and shipping and packing boxes with fast-drying water-based inks."
+    },
+    {
+      "id": "122",
+      "page": "التطبيقات",
+      "ar": "الورق",
+      "en": "Paper"
+    },
+    {
+      "id": "123",
+      "page": "التطبيقات",
+      "ar": "ورق الكرافت والأكواب الورقية والمناديل والكراسات.",
+      "en": "Kraft paper, paper cups, tissues and notebooks."
+    },
+    {
+      "id": "124",
+      "page": "التطبيقات",
+      "ar": "الأكياس",
+      "en": "Bags"
+    },
+    {
+      "id": "125",
+      "page": "التطبيقات",
+      "ar": "الشكائر المنسوجة وأكياس البلاستيك وشكاير السكر والدقيق والأعلاف والأسمنت.",
+      "en": "Woven sacks, plastic bags, and sugar, flour, feed and cement sacks."
+    },
+    {
+      "id": "126",
+      "page": "التطبيقات",
+      "ar": "التغليف المرن",
+      "en": "Flexible Packaging"
+    },
+    {
+      "id": "127",
+      "page": "التطبيقات",
+      "ar": "رولات التغليف والـ Lamination للأغذية والمنتجات الاستهلاكية.",
+      "en": "Packaging rolls and lamination for food and consumer products."
+    },
+    {
+      "id": "128",
+      "page": "التطبيقات",
+      "ar": "البلاستيك",
+      "en": "Plastic"
+    },
+    {
+      "id": "129",
+      "page": "التطبيقات",
+      "ar": "أفلام PE / HDPE / PP بالتصاق قوي ومقاومة للاحتكاك والخدش.",
+      "en": "PE / HDPE / PP films with strong adhesion and resistance to rubbing and scratching."
+    },
+    {
+      "id": "130",
+      "page": "التطبيقات",
+      "ar": "وغيرها",
+      "en": "And More"
+    },
+    {
+      "id": "131",
+      "page": "التطبيقات",
+      "ar": "عبوات المواد الغذائية وتطبيقات صناعية أخرى - تواصل معنا لحل مخصص.",
+      "en": "Food packaging and other industrial applications - contact us for a custom solution."
+    },
+    {
+      "id": "132",
+      "page": "التطبيقات",
+      "ar": "احصل على عرض سعر مخصص لاحتياجاتك، وتعرّف على خياراتنا التنافسية.",
+      "en": "Get a quote tailored to your needs and discover our competitive options."
+    },
+    {
+      "id": "133",
+      "page": "التطبيقات",
+      "ar": "اسأل فريقنا",
+      "en": "Ask Our Team"
+    },
+    {
+      "id": "134",
+      "page": "اتصل بنا",
+      "ar": "يسعدنا تواصلك معنا للاستفسار أو طلب عرض سعر أو عينة.",
+      "en": "We're glad to hear from you for inquiries, quotes or samples."
+    },
+    {
+      "id": "135",
+      "page": "اتصل بنا",
+      "ar": "Phone · الهاتف",
+      "en": "Phone"
+    },
+    {
+      "id": "136",
+      "page": "اتصل بنا",
+      "ar": "WhatsApp · واتساب",
+      "en": "WhatsApp"
+    },
+    {
+      "id": "138",
+      "page": "اتصل بنا",
+      "ar": "Facebook · فيسبوك",
+      "en": "Facebook"
+    },
+    {
+      "id": "139",
+      "page": "اتصل بنا",
+      "ar": "Ink Master على فيسبوك",
+      "en": "Ink Master on Facebook"
+    },
+    {
+      "id": "140",
+      "page": "اتصل بنا",
+      "ar": "Address · العنوان",
+      "en": "Address"
+    },
+    {
+      "id": "141",
+      "page": "اتصل بنا",
+      "ar": "أرسل رسالتك",
+      "en": "Send Your Message"
+    },
+    {
+      "id": "142",
+      "page": "اتصل بنا",
+      "ar": "املأ البيانات وسنفتح لك محادثة واتساب جاهزة بالرسالة.",
+      "en": "Fill in the details and we'll open a WhatsApp chat with your message ready."
+    },
+    {
+      "id": "143",
+      "page": "اتصل بنا",
+      "ar": "الاسم",
+      "en": "Name"
+    },
+    {
+      "id": "144",
+      "page": "اتصل بنا",
+      "ar": "الشركة (اختياري)",
+      "en": "Company (optional)"
+    },
+    {
+      "id": "145",
+      "page": "اتصل بنا",
+      "ar": "نوع الاستفسار",
+      "en": "Inquiry Type"
+    },
+    {
+      "id": "146",
+      "page": "اتصل بنا",
+      "ar": "أحبار مذيبة",
+      "en": "Solvent Inks"
+    },
+    {
+      "id": "147",
+      "page": "اتصل بنا",
+      "ar": "أحبار مائية",
+      "en": "Water-Based Inks"
+    },
+    {
+      "id": "148",
+      "page": "اتصل بنا",
+      "ar": "مركزات ألوان / كيماويات",
+      "en": "Color Concentrates / Chemicals"
+    },
+    {
+      "id": "149",
+      "page": "اتصل بنا",
+      "ar": "استفسار آخر",
+      "en": "Other Inquiry"
+    },
+    {
+      "id": "150",
+      "page": "اتصل بنا",
+      "ar": "الرسالة",
+      "en": "Message"
+    },
+    {
+      "id": "151",
+      "page": "اتصل بنا",
+      "ar": "إرسال عبر واتساب",
+      "en": "Send via WhatsApp"
+    },
+    {
+      "id": "152",
+      "page": "اتصل بنا",
+      "ar": "موقعنا على الخريطة",
+      "en": "Our Location on the Map"
+    },
+    {
+      "id": "153",
+      "page": "اتصل بنا",
+      "ar": "الروبيكي - مدينة العاشر من رمضان، مصر",
+      "en": "Al-Robeiki - 10th of Ramadan City, Egypt"
+    },
+    {
+      "id": "154",
+      "page": "اتصل بنا",
+      "ar": "افتح الموقع على خرائط جوجل",
+      "en": "Open in Google Maps"
+    },
+    {
+      "id": "155",
+      "page": "المنتجات",
+      "ar": "11 درجة لونية · pH من 8.5 إلى 9.5 · ثبات ضوء من 4 إلى 8",
+      "en": "11 shades · pH 8.5–9.5 · light fastness 4–8"
+    },
+    {
+      "id": "156",
+      "page": "المنتجات",
+      "ar": "تُخزَّن جافة بين +10 و +40 درجة مئوية",
+      "en": "Store dry between +10°C and +40°C"
+    },
+    {
+      "id": "157",
+      "page": "المنتجات",
+      "ar": "تجنّب التجمّد والحرارة الزائدة ومصادر اللهب",
+      "en": "Avoid freezing and keep away from excessive heat or flame"
+    },
+    {
+      "id": "158",
+      "page": "المنتجات",
+      "ar": "استخدم المخزون الأقدم أولاً",
+      "en": "Rotate stock — use older product first"
+    },
+    {
+      "id": "159",
+      "page": "المنتجات",
+      "ar": "أبقِ العبوات مغلقة، ومدة الصلاحية حتى 12 شهراً",
+      "en": "Keep containers closed — shelf life up to 12 months"
+    },
+    {
+      "id": "168",
+      "page": "المنتجات",
+      "ar": "مكان مغطى وجيد التهوية (بحد أقصى 12 شهراً)",
+      "en": "Store in a covered, ventilated area (max 12 months)"
+    },
+    {
+      "id": "169",
+      "page": "المنتجات",
+      "ar": "تجنّب التعرض الطويل والمباشر للهواء",
+      "en": "Avoid long direct air exposure to the product"
+    }
+  ]
 }
